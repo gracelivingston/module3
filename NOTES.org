@@ -1,0 +1,5 @@
+1. What is the total possible size of the search space?
+     - Each node: 5 moves
+     - Depth: 10
+     - 5^9 (because 5^0 is the root node) = 1,953,125
+2.
